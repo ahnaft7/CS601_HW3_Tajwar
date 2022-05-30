@@ -1,3 +1,6 @@
+
+
+function calculatorStart() {
 alert("Hello! Welcome to JavaScript Calculator!");
 let name = window.prompt("What is your name?");
 alert("Welcome " + name + "!");
@@ -38,4 +41,5 @@ while (true) {
     } else {
         alert("Please enter 'yes' or 'no'");
     }
+}
 }
